@@ -1,2 +1,4 @@
-# LEK-VPN
-LEK VPN
+vless://0a35b861-4e03-43a8-b3f8-41526e5c2e33@g1.steptofreedom.one:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=g1.steptofreedom.one&fp=randomized&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&type=tcp#🇪🇺 Быстрый
+vless://0a35b861-4e03-43a8-b3f8-41526e5c2e33@g10.steptofreedom.one:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=g10.steptofreedom.one&fp=randomized&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&type=tcp#🇩🇪 Германия
+vless://0a35b861-4e03-43a8-b3f8-41526e5c2e33@ru.steptofreedom.one:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ozon.ru&fp=chrome&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=4326&type=tcp#🇷🇺 Россия
+vless://0a35b861-4e03-43a8-b3f8-41526e5c2e33@158.160.159.34:8081?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=edge&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=4326&type=tcp#🇫🇮 LTE Обход | Глушилки
